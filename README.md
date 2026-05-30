@@ -165,7 +165,7 @@ requests
 Pillow
 faker
 keyboard
-ttkbootstrap
+git+https://github.com/ghostselfbot/discord.py-self_embed.git
 ```
 
 ## Troubleshooting
