@@ -153,8 +153,7 @@ darky-selfbot/
 │   ├── text.py
 │   ├── settings.py
 │   ├── utility.py
-│   └── legit.py
-└── docs/               # Documentation
+└── └── legit.py
 ```
 
 ## Dependencies
