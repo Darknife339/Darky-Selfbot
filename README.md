@@ -4,7 +4,7 @@ A Discord selfbot with text animations, utilities, and customization options.
 
 ## Warning
 
-This is for educational purposes only. Using selfbots can violate Discord's Terms of Service. Use at your own risk. I'm not responsible for any consequences.
+This project not fully completed
 
 ## What it does
 
@@ -55,16 +55,6 @@ Edit `config.json` with your settings:
     }
 }
 ```
-
-### Getting your token
-
-1. Open Discord in your browser
-2. Open DevTools (F12)
-3. Go to Network > WS tab
-4. Send any message
-5. Find the WebSocket traffic and copy the token from the payload
-
-Don't share your token with anyone.
 
 ## Commands
 
@@ -144,7 +134,7 @@ You can change how messages appear:
 - `codeblock` - ANSI colored codeblocks
 - `embed` - Discord embeds via API
 - `hookembed` - Embeds via webhook
-- `image` - PNG images with embeds
+- `imageembed` - PNG images with embeds
 
 Use `.setstyle [name]` to change.
 
@@ -186,10 +176,6 @@ ttkbootstrap
 **Module not found** - Run `pip install -r requirements.txt`
 
 **Nowplaying not working** - Requires Windows and working media session
-
-## Contributing
-
-Feel free to submit issues or pull requests. I'm not a perfect programmer so there's probably bugs.
 
 ## License
 
