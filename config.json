@@ -2,7 +2,7 @@
     "token": "YOUR_DISCORD_TOKEN_HERE",
     "prefix": ".",
     "message_settings": {
-        "style": "hookembed",
+        "style": "codeblock",
         "auto_delete_delay": 100,
         "edit_og": false
     },
