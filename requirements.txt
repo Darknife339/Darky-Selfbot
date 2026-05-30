@@ -1,0 +1,7 @@
+discord.py-self
+art
+requests
+Pillow
+faker
+keyboard
+ttkbootstrap

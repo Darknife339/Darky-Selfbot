@@ -1,0 +1,28 @@
+{
+    "token": "YOUR_DISCORD_TOKEN_HERE",
+    "prefix": ".",
+    "message_settings": {
+        "style": "hookembed",
+        "auto_delete_delay": 100,
+        "edit_og": false
+    },
+    "theme": {
+        "title": "Darky selfbot",
+        "emoji": "🌑",
+        "colour": "#8B5CF6",
+        "footer": "Darky v1.0",
+        "image": "https://raw.githubusercontent.com/Darknife339/just-pictures/refs/heads/main/DeWatermark.ai_1761290696876.jpeg"
+    },
+    "apis": {
+        "serpapi": "YOUR_SERPAPI_KEY_HERE"
+    },
+    "rich_embed_webhook": "YOUR_RICH_EMBED_WEBHOOK_URL_HERE",
+    "message_logger_webhook": "YOUR_MESSAGE_LOGGER_WEBHOOK_URL_HERE",
+    "message_logger_enabled": true,
+    "message_logger_only_added": true,
+    "message_logger_allowed_channels": [],
+    "message_logger_allowed_guilds": [],
+    "message_logger_blocked_channels": [],
+    "nitro_sniper_webhook": "YOUR_NITRO_SNIPER_WEBHOOK_URL_HERE",
+    "nitro_sniper_enabled": false
+}
