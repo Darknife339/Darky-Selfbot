@@ -134,7 +134,7 @@ You can change how messages appear:
 - `codeblock` - ANSI colored codeblocks
 - `embed` - Discord embeds via API
 - `hookembed` - Embeds via webhook
-- `imageembed` - PNG images with embeds
+- `image` - PNG images with embeds
 
 Use `.setstyle [name]` to change.
 
